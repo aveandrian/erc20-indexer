@@ -7,7 +7,7 @@ This is an app that uses the Alchemy SDK rigged to Alchemy's Enhanced APIs in or
 Environmental variables needed.   
 In file `.env` and input   
 `VITE_ALCHEMY_MAINNET_KEY` - Alchemy API key for ETH Mainnet  
-`VITE_WC_PROJECT_ID` - WalletConnect project ID, it's free, can be acquired on WalletCOnnect website
+`VITE_WC_PROJECT_ID` - WalletConnect project ID, it's free, can be acquired on WalletConnect website
 
 1. Install dependencies by running `npm install`
 2. Start application by running `npm run dev`
