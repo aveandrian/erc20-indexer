@@ -24,7 +24,7 @@ import { useProvider, useAccount } from "wagmi";
 import { ethers } from 'ethers';
 
 const config = {
-  apiKey: 'L20Lg9Vo9MOII6N008-KOtnVIh9uKzQE',
+  apiKey: import.meta.env.VITE_ALCHEMY_MAINNET_KEY,
   network: Network.ETH_MAINNET,
 };
 
