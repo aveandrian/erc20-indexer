@@ -19,3 +19,6 @@ In file `.env` and input
 - Error handling  
 - ENS support   
 - Links to etherscan
+
+## Live demo:
+https://courageous-phoenix-3d8178.netlify.app/
